@@ -1,0 +1,8 @@
+*{
+  font-family: Helvetica, sans-serif;
+}
+#image{
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
